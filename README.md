@@ -1,6 +1,6 @@
 # Unraveling the Inner World of PhD Scholars with Sentiment Analysis for Mental Health Prognosis
 
-The dataset was collected for a study published in Taylor & Francis's Behaviour & Information Technology journal. If you use this dataset, please use the following information to cite:
+This repository provides the dataset collected for a study published in the Behaviour & Information Technology Journal. If you find this dataset useful and use it for further research, please use the following information to cite:
 
 @article{Noreen2023Unraveling,\
   author = {Rimsha Noreen, Amna Zafar, Talha Waheed, Muhammad Wasim, Abdul Ahad, Paulo Jorge Coelho and Ivan Miguel Pires},\
