@@ -12,6 +12,4 @@ The dataset was collected for a study published in Taylor & Francis's Behaviour 
   year = {2023},\
   publisher = {Taylor & Francis},\
   doi = {10.1080/0144929X.2023.2289057},\
-  URL = {https://doi.org/10.1080/0144929X.2023.2289057},\
-  eprint = {https://doi.org/10.1080/0144929X.2023.2289057}\
 }
